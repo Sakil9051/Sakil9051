@@ -15,6 +15,7 @@
 
 
 - 🔭 I’m currently working on `Something Intresting`.
+- - Here is my <a href="https://sakil9051.github.io/" target="_blank">Website</a>
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -23,7 +24,6 @@
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
 - 💓 I love designing websites and coding.
-- Here is my <a href="https://sakil9051.github.io/" target="_blank">Website</a>
 - 📫 How to reach me **Sahillaskar137@gmail.com**
 
 <br>
