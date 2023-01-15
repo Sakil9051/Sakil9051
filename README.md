@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Sahil Laskar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates</h3>
+<h3>“Unleashing the power of code, I am a full stack web developer with a passion for creating dynamic and responsive websites. From front-end design to back-end logic, my Github portfolio showcases my expertise in HTML, CSS, JavaScript, and various frameworks and technologies. Join me on my coding journey and let's build something amazing together!”</h3>
     <br>
     
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
