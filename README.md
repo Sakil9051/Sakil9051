@@ -8,7 +8,7 @@
 
 <img  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400px" align="right" />
 
-- 🔭 I’ve recently celebrated my 1-year work anniversary at `Techmapperz`, where I've been contributing to a wide range of projects, sharpening my skills in `PHP`, `CI4` (CodeIgniter 4), `React`, and `Node.js`.
+- 🔭 Recently celebrated a 1-year work anniversary at `Techmapperz`, contributing to a wide range of projects, sharpening skills in `PHP`, `CI4` (CodeIgniter 4), `React`, and `Node.js`.
 
 - 🌱 Proficient in `MERN Stack` and have recently expanded my expertise to include `CI4/PHP`, allowing me to tackle both front-end and back-end challenges with ease.
 
